@@ -7,4 +7,4 @@ Talen:
 HTML, JS
 
 
-Heb je vragen? DM me op discord! Daan#2806
+Heb je vragen? DM me op discord! "! Daan#0001"
