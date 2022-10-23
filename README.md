@@ -16,8 +16,6 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
@@ -33,7 +31,7 @@
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -52,7 +50,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -82,14 +80,6 @@
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=4l0tuo7z56w30sfmeb1a5pks2&cover_image=true&theme=default&show_offline=true&bar_color=53b14f&bar_color_cover=false" /></div>  
-
-<br/>  
-
-  
 
 <br/>  
 
