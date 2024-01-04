@@ -23,9 +23,3 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/820313408741441546)](https://discord.com/users/820313408741441546)
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/itsjustdaan/itsjustdaan/output/snake.svg" alt="Snake animation" />
-
-###
