@@ -1,4 +1,4 @@
-<h2 align="left">Hey 👋! Ik ben Daan, een hobbyist developer uit Nederland.</h2>
+<h2 align="left">Hey 👋, Ik ben Daan!</h2>
 
 ###
 
